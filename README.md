@@ -34,19 +34,23 @@ A Java-based application designed to manage and analyze a large dataset of songs
 ```
 3. Ensure that junit5.jar is available in the parent directory
 4. Use the Makefile commands:
-  To compile and run the application:
-    ```bash
-    make runApp
-    ```
-  To run backend developer tests:
-    ```bash
-    make runBDTests
-    ```
-  To run frontend developer tests:
-    ```bash
-    make runFDTests
-    ```
-  To clean compiled .class files:
-    	```bash
-      make clean
-      ```
+
+   - To compile and run the application:
+     ```bash
+     make runApp
+     ```
+
+   - To run backend developer tests:
+     ```bash
+     make runBDTests
+     ```
+
+   - To run frontend developer tests:
+     ```bash
+     make runFDTests
+     ```
+
+   - To clean compiled `.class` files:
+     ```bash
+     make clean
+     ```
